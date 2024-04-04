@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Ephesis&family=Poppins:wght@300;400;500;600;700;900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing:border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  width:80%;
+  margin:auto;
+  margin-top:3em;
+  background:#000;
+  color:#fff;
+  margin:4em;
+}
+
+article {
+  margin:1em 0;
+  color:cornflowerblue;
+}
+
+.newPost {
+  padding:1em;
+  margin:1em;
+}
+
+.nav ul  {
+  display:flex;
+}
+
+.nav ul li {
+  margin:2em;
+}
